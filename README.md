@@ -1,4 +1,7 @@
-![IMG_20170423_090057](https://user-images.githubusercontent.com/18340241/160910331-672953c7-055c-48ef-9291-69305d64b155.png)
+<h1 align="center">👋 print("Hello world !,  I'm Margarita 🌼") </h1> 
+
+
+
 
 
 <div align="center">
