@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 print("Hello world !,  I'm Margarita 🌼") </h1> 
 <div align="center">
-  <p>Hello, I am Margarita Lacuaña Apaza, 👩‍🎓<b>Bachelor of computer science</b> and 👩‍💻 <b> Data engineer.</b> </p>
+  <p>Hello, I am Margarita Lacuaña Apaza, 👩‍🎓<b>Bachelor of computer science</b> and 👩‍💻 <b> Full-stack developer.</b> </p>
 
 
 
