@@ -50,7 +50,7 @@
 
   🇺🇸 English - ⭐⭐⭐
 
-  🇧🇷 Portuguese - ⭐⭐
+  🇧🇷 Portuguese - ⭐⭐⭐
 
 
 
