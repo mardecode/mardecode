@@ -3,7 +3,7 @@
 <h1 align="center">👋 print("Hello world !,  I'm Margarita 🌼 and you ?") </h1> 
 <div align="center">
   <p>Hello, I am Margarita Lacuaña Apaza, 👩‍🎓<b>Bachelor of computer science</b>.</p>
-  <p>Currently, I'm working as a Data engineer at Teamcore Solutions. </p>
+ 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/margarcuae/)
