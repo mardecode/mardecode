@@ -12,11 +12,11 @@
 ## 🛠 Tech Stack & Tools
 
 **Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 **Data Engineering & Cloud:**  
 ![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
@@ -55,4 +55,14 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mardecode/)
 [![LinkedIn](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/mardecode)
+
+---
+
+## 📚 Learning & Certifications
+
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Skills%20Boost-Google%20Cloud%20Profile%201-0F9D58?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/abab2218-f563-4571-9372-faf0b39ae4c9)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Skills%20Boost-Google%20Cloud%20Profile%202-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/600ec4df-3c82-4c9f-ab25-8a6eb5f57642)
+
+[![Google Cloud Developer](https://img.shields.io/badge/Google%20Cloud%20Developer-Profile-FF6D00?logo=googlecloud&logoColor=white)](https://developers.google.com/profile/u/mardecode?hl=es-419)
+
 
